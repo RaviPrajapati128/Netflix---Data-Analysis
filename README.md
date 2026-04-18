@@ -25,7 +25,3 @@ The dataset includes columns like Title, Genre, Languages, IMDb Score, Boxoffice
 - 580 movies with runtime ≥ 1 hour  
 - 25 multilingual TV series  
 
-## How to Run
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/yourusername/netflix-data-analysis.git
